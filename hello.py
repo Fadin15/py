@@ -1,10 +1,5 @@
+name=input("hai whats your name: ")
+print("hai  "+name)
 
-import turtle
-arrow = turtle.Turtle()
-arrow.forward(150)
-arrow.left(90)
-arrow.forward(150)
-arrow.left(90)
-arrow.forward(150)
-arrow.left(90)
-arrow.forward(150)
+reply=input("how are you ")
+print("good to hear that"+reply)
